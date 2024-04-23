@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hojune%20Shin&fontSize=90)
 
-![Rozn's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoznBoy&show_icons=true&theme=synthwave)
+![Rozn's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoznBoy&show_icons=true&theme=aura)
 
 <!--
 **RoznBoy/RoznBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -1,5 +1,5 @@
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoznBoy&show_icons=true&theme=radical)
+![Rozn's GitHub stats](https://github-readme-stats.vercel.app/api?username=RoznBoy&show_icons=true&theme=synthwave)
 
 <!--
 **RoznBoy/RoznBoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
